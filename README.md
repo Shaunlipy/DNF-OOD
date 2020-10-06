@@ -6,7 +6,7 @@ This repo is for Deep Neural Forest for OOD detection.
 ### HAM10000 dataset [1]
 this dataset contains 7 lesion classes: NV, MEL, DF, AK, SCC, BCC, VASC
 ### DermNet [2]
-this dataset contains 23 lesion classes.
+this dataset contains 23 lesion classes. [link to Drive](https://drive.google.com/file/d/1E7Z_ub-UErWDyN1fFWJjEzQjaKEZ0MZF/view?usp=sharing)
 ## 2. OOD sets
 ### Unseen disease detection
 please refer to our paper for the leave-one-out experiment on HAM10000, and treating 4 diseases as OOD data on DermNet.
