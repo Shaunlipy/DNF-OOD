@@ -13,7 +13,7 @@ please refer to our paper for the leave-one-out experiment on HAM10000, and trea
 ### HAM10000-crop
 please download the data.
 ### Gradient-based heatmap cropping
-75-gradient-cropping, 50-gradient-cropping, 25-gradient-cropping
+[75-gradient-cropping](https://drive.google.com/file/d/1VSGqbCHp6RDjW-qQQp6Sa6xHYwytuP2Y/view?usp=sharing), [50-gradient-cropping](https://drive.google.com/file/d/1Edh98Uu_TlUmWktqfI9zIA4ziitIh3VP/view?usp=sharing), [25-gradient-cropping](https://drive.google.com/file/d/1tKLZ2f9Y0TQpzbDDVP6XHB8NCfX0K5TV/view?usp=sharing)
 
 ## 3. Code for OOD detection
 
